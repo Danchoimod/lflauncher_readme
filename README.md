@@ -26,7 +26,7 @@ Tự thiết kế, tự lập trình và vận hành từ tháng 08/2023 đến 
 
 | Chỉ số | Con số |
 |--------|--------|
-| 🎮 Tổng người dùng | **7,700+** (cộng đồng Discord) |
+| 🎮 Tổng người dùng | **7,700+** (Discord Auth) |
 | 📦 Người dùng mới mỗi lần release | **1,000 – 2,000** |
 | 🌐 Nền tảng hỗ trợ | Android + Windows |
 | ⏱️ Thời gian vận hành | Production từ 2023 đến nay |
@@ -212,16 +212,8 @@ DevOps:   Docker · Nginx (OTP service) · Firebase Auth
 
 ---
 
-## 📄 License
-
-Dự án nội bộ — LASSCMONE STUDIO. Sẽ bổ sung license chính thức nếu mở source.
-
----
-
 <div align="center">
 
 **Fullstack Developer · Backend-first · 08/2023 – Hiện tại**
-
-*Chi tiết kỹ thuật để phỏng vấn → [`CV_PROJECT_DESCRIPTION.md`](./CV_PROJECT_DESCRIPTION.md)*
 
 </div>
