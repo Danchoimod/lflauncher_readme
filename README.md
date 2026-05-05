@@ -31,6 +31,14 @@ Tự thiết kế, tự lập trình và vận hành từ tháng 08/2023 đến 
 | 🌐 Nền tảng hỗ trợ | Android + Windows |
 | ⏱️ Thời gian vận hành | Production từ 2023 đến nay |
 
+##changelog
+<img width="1277" height="52" alt="image" src="https://github.com/user-attachments/assets/d7eac4e7-053b-4672-9bc1-8244405daf3b" />
+<img width="1264" height="50" alt="image" src="https://github.com/user-attachments/assets/93f58ea6-efe4-43cd-befa-311580918a39" />
+<img width="1270" height="60" alt="image" src="https://github.com/user-attachments/assets/1a538fd7-8ba8-40db-b0ca-a412fa572e6c" />
+<img width="1290" height="49" alt="image" src="https://github.com/user-attachments/assets/7c491df1-c355-45bd-ab09-75bb5fcff89e" />
+
+
+
 ---
 
 ## 🧩 Tổng quan hệ thống
